@@ -27,7 +27,7 @@ To become a **Full Stack Developer**, mastering **Frontend**, **Backend**, and *
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AditNurdiansyah657&icon=3&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aditnurdiansyah&icon=3&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
