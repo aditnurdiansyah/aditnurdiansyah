@@ -11,7 +11,7 @@ To become a **Full Stack Developer**, mastering **Frontend**, **Backend**, and *
 
 ### 🙋 About Me
 - 🔭 I am a student in the **Informatics** major at **Sultan Ageng Tirtayasa University**, **Indonesia**
-- 🌱 I’m currently learning HTML, CSS, and JavaScript, I focus on writing clean, maintainable code and delivering user-centric solutions that ensure projects stand out.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. I focus on writing clean, maintainable code and delivering user-centric solutions that ensure projects stand out.
 
 ---
 
@@ -40,7 +40,6 @@ To become a **Full Stack Developer**, mastering **Frontend**, **Backend**, and *
 ---
 
 [![](https://visitcount.itsvg.in/api?id=aditnurdiansyah&icon=3&color=13)](https://visitcount.itsvg.in)
-[![](https://komarev.com/ghpvc/?username=aditnurdiansyah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
