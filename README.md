@@ -10,8 +10,8 @@ To become a **Full Stack Developer**, mastering **Frontend**, **Backend**, and *
 ---
 
 ### 🙋 About Me
-- I am a student in the **Informatics** major at **Sultan Ageng Tirtayasa University**, **Indonesia**
-- **Dedicated Web Developer** specializing in building responsive and high-performance web applications. Expert in HTML, CSS, and JavaScript, I focus on writing clean, maintainable code and delivering user-centric solutions that ensure projects stand out.
+- 🔭 I am a student in the **Informatics** major at **Sultan Ageng Tirtayasa University**, **Indonesia**
+- 🌱 I’m currently learning HTML, CSS, and JavaScript, I focus on writing clean, maintainable code and delivering user-centric solutions that ensure projects stand out.
 
 ---
 
