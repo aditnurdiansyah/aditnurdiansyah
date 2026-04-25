@@ -20,6 +20,8 @@
 ## 🧠 My Focus Areas
 - Web Development
 
+## 🎯 Vision
+To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* technologies.
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
