@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
 - 🔭 I am a student in the **Informatics** major at **Sultan Ageng Tirtayasa University**, **Indonesia**.
@@ -19,6 +19,7 @@
 
 ## 🧠 My Focus Areas
 - Web Development
+- Web Design
 
 ## 🎯 Vision
 To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* technologies.
