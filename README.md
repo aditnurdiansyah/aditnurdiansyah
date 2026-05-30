@@ -66,9 +66,6 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=aditnurdiansyah)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aditnurdiansyah">
