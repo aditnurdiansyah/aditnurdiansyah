@@ -12,7 +12,6 @@
 - 🔭 I am a student in the **Informatics** major at **Sultan Ageng Tirtayasa University**, **Indonesia**.
 - 🌱 I am currently learning HTML, CSS, and JavaScript. I focus on writing clean, maintainable code and delivering user-centric solutions that ensure projects stand out.
 
-
 ## 🧠 My Focus Areas
 - Web Development
 - Web Design
@@ -37,7 +36,6 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -56,6 +54,7 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
 </p>
