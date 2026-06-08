@@ -22,7 +22,7 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/aditnurdiansyah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditnurdiansyah&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="aditnurdiansyah's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditnurdiansyah&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="aditnurdiansyah GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=aditnurdiansyah&theme=dark&hide_border=true&cache_seconds=86400" alt="aditnurdiansyah's GitHub Streak" width="49%" />
 </p>
