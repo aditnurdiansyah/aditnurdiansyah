@@ -36,7 +36,7 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -48,14 +48,6 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
 </p>
 
@@ -82,4 +74,3 @@ To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* te
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
