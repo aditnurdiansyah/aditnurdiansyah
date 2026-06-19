@@ -12,10 +12,6 @@
 - 🔭 I am a student in the **Informatics** major at **Sultan Ageng Tirtayasa University**, **Indonesia**.
 - 🌱 I am currently learning HTML, CSS, and JavaScript. I focus on writing clean, maintainable code and delivering user-centric solutions that ensure projects stand out.
 
-## 🧠 My Focus Areas
-- Web Development
-- Web Design
-
 ## 🎯 Vision
 To become a **Full Stack Developer**, mastering both *Frontend* and *Backend* technologies.
 
