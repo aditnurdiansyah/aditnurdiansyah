@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Adit%20Nurdiansyah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Development%20and%20UI/UX%20Design%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Adit%20Nurdiansyah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Development%20&%20UI/UX%20Design%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=aditnurdiansyah">
